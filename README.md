@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">
 
 Hello 👋 I’m Oleksandr!
@@ -8,10 +6,9 @@ Hello 👋 I’m Oleksandr!
 
 <br clear="both">
 
-<div align="center">
-  <!-- GIF гри зверху -->
+<div align="center" style="width: 100vw; height: 100vh; display: flex; justify-content: center; align-items: center;">
   <img src="Pacman Jump.gif" alt="Pacman Jump Game Screenshot" 
-       style="width:90%; max-width:600px; height:auto; border-radius: 15px; box-shadow: 0 5px 25px rgba(0,0,0,0.5);" />
+       style="width: 100%; height: 100%; object-fit: cover; border-radius: 0; box-shadow: none;" />
 </div>
 
 ---
@@ -34,17 +31,6 @@ Jump over obstacles and try to achieve the highest score!
 ### 🕹️ Play It Below
 
 > _If the iframe doesn’t display on GitHub, click the "Play Now" button above._
-
-<div align="center">
-  <iframe 
-    src="https://alexsandr-kharchenko.github.io/Pacman-Jump/" 
-    width="100%" 
-    height="400" 
-    style="max-width:800px; border: 3px solid #ffeb3b; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5);" 
-    title="Pacman Jump Game"
-    allowfullscreen>
-  </iframe>
-</div>
 
 ---
 
