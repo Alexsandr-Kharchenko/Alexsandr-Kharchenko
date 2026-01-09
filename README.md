@@ -1,16 +1,8 @@
 <h1 align="center">
-
-Hello 👋 I’m Oleksandr!
-
+  Hello 👋 I’m Oleksandr!
 </h1>
 
 <br clear="both">
-
-<div align="center">
-  <img src="Pacman Jump.gif" 
-       alt="Pacman Jump Game Screenshot" 
-       style="width: 100%; max-width: 800px; height: auto; border-radius: 15px;" />
-</div>
 
 ---
 
@@ -29,9 +21,35 @@ I have completed GoIT courses and received a certificate, further strengthening 
 Jump over obstacles and try to achieve the highest score!  
 **Instructions:** Press <kbd>SPACE</kbd> or tap the screen to jump.
 
+<div align="center">
+  <!-- GIF гри -->
+  <img src="Pacman Jump.gif" 
+       alt="Pacman Jump Game Screenshot" 
+       style="width: 100%; max-width: 800px; height: auto; border-radius: 15px; box-shadow: 0 5px 25px rgba(0,0,0,0.5);" />
+</div>
+
+<p align="center">
+  <a href="https://alexsandr-kharchenko.github.io/Pacman-Jump/" target="_blank" 
+     style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Play%20Now-Pacman%20Jump-brightgreen?style=for-the-badge&logo=github" 
+         height="35" alt="Play Pacman Jump"/>
+  </a>
+</p>
+
 ### 🕹️ Play It Below
 
 > _If the iframe doesn’t display on GitHub, click the "Play Now" button above._
+
+<div align="center">
+  <iframe 
+    src="https://alexsandr-kharchenko.github.io/Pacman-Jump/" 
+    width="800" 
+    height="400" 
+    style="border: 3px solid #ffeb3b; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5);" 
+    title="Pacman Jump Game"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ---
 
