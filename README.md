@@ -1,23 +1,17 @@
 ## Hi there 👋
 
+<h1 align="center">
+
+Hello 👋 I’m Oleksandr!
+
+</h1>
+
 <br clear="both">
 
 <div align="center">
   <!-- GIF гри зверху -->
   <img src="Pacman Jump.gif" alt="Pacman Jump Game Screenshot" 
        style="width:90%; max-width:600px; height:auto; border-radius: 15px; box-shadow: 0 5px 25px rgba(0,0,0,0.5);" />
-</div>
-
----
-
-<h1 align="center">
-  <img src="assets/dino.png" alt="Pacman Jump Logo" width="50" height="50" style="vertical-align: middle;"/> 
-  Hello 👋 I’m Oleksandr!
-</h1>
-
-<div align="center">
-  <!-- Бедж відвідувань -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alexsandr-kharchenko.Pacman-Jump" />
 </div>
 
 ---
@@ -36,13 +30,6 @@ Currently training at GoIT to further develop my skills and seeking opportunitie
 
 Jump over obstacles and try to achieve the highest score!  
 **Instructions:** Press <kbd>SPACE</kbd> or tap the screen to jump.
-
-<p align="center">
-  <a href="https://alexsandr-kharchenko.github.io/Pacman-Jump/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Play%20Now-Pacman%20Jump-brightgreen?style=for-the-badge&logo=github" 
-         height="35" alt="Play Pacman Jump"/>
-  </a>
-</p>
 
 ### 🕹️ Play It Below
 
@@ -71,8 +58,6 @@ Jump over obstacles and try to achieve the highest score!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
   <img width="10"/>
