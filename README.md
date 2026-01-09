@@ -36,20 +36,7 @@ Jump over obstacles and try to achieve the highest score!
   </a>
 </p>
 
-### 🕹️ Play It Below
-
-> _If the iframe doesn’t display on GitHub, click the "Play Now" button above._
-
-<div align="center">
-  <iframe 
-    src="https://alexsandr-kharchenko.github.io/Pacman-Jump/" 
-    width="800" 
-    height="400" 
-    style="border: 3px solid #ffeb3b; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.5);" 
-    title="Pacman Jump Game"
-    allowfullscreen>
-  </iframe>
-</div>
+> _Click the button above to play the game on GitHub Pages._
 
 ---
 
