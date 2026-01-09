@@ -12,7 +12,8 @@ I am a frontend developer focused on creating modern web applications with clean
 
 I have completed GoIT courses and received a certificate, further strengthening my skills as a frontend developer.
 
-📧 Contact me: **ov.kharchenko.office@gmail.com**
+📧 Contact me: **ov.kharchenko.office@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/olek-kharchenko) | 💬 [Telegram](https://t.me/Alexsandr2302)
 
 ---
 
