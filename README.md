@@ -6,9 +6,10 @@ Hello 👋 I’m Oleksandr!
 
 <br clear="both">
 
-<div align="center" style="width: 100vw; height: 100vh; display: flex; justify-content: center; align-items: center;">
-  <img src="Pacman Jump.gif" alt="Pacman Jump Game Screenshot" 
-       style="width: 100%; height: 100%; object-fit: cover; border-radius: 0; box-shadow: none;" />
+<div align="center">
+  <img src="Pacman Jump.gif" 
+       alt="Pacman Jump Game Screenshot" 
+       style="width: 100%; max-width: 800px; height: auto; border-radius: 15px;" />
 </div>
 
 ---
@@ -17,7 +18,7 @@ Hello 👋 I’m Oleksandr!
 
 I am a frontend developer focused on creating modern web applications with clean, efficient code. I work with HTML, CSS, and JavaScript to build interactive and user‑friendly experiences.
 
-Currently training at GoIT to further develop my skills and seeking opportunities as a frontend developer.
+I have completed GoIT courses and received a certificate, further strengthening my skills as a frontend developer.
 
 📧 Contact me: **ov.kharchenko.office@gmail.com**
 
