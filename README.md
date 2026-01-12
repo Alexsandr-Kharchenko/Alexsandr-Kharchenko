@@ -1,6 +1,6 @@
-<a href="/" target="_blank">
-  <img src="Photo.svg" alt="The Unlimited" width="180"/>
-</a>
+<p align="center">
+  <img src="Photo.svg" alt="Banner" width="100%" />
+</p>
 
 <br clear="both">
 
