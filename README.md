@@ -1,6 +1,6 @@
-<h1 align="center">
-  Hello 👋 I’m Oleksandr!
-</h1>
+<a href="/" target="_blank">
+  <img src="Photo.svg" alt="The Unlimited" width="180"/>
+</a>
 
 <br clear="both">
 
@@ -15,8 +15,8 @@ I have completed GoIT courses and received a certificate, further strengthening 
 ### Socials:
 
 [![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ov.kharchenko.office@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Alexsandr2302)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/olek-kharchenko)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Alexsandr2302)
 
 ---
 
