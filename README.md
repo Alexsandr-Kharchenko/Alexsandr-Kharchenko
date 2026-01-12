@@ -12,20 +12,11 @@ I am a frontend developer focused on creating modern web applications with clean
 
 I have completed GoIT courses and received a certificate, further strengthening my skills as a frontend developer.
 
-<a href="mailto:ov.kharchenko.office@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="20" style="vertical-align: middle; fill:#D14836;"/>
-  Email
-</a>
+### Socials:
 
-<a href="https://www.linkedin.com/in/olek-kharchenko" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="20" style="vertical-align: middle; fill:#0077B5;"/>
-  LinkedIn
-</a>
-
-<a href="https://t.me/Alexsandr2302" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" height="20" style="vertical-align: middle; fill:#0088cc;"/>
-  Telegram
-</a>
+[![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ov.kharchenko.office@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Alexsandr2302)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/olek-kharchenko)
 
 ---
 
